@@ -43,4 +43,4 @@ const ROUTES = [
     }
 ]
 
-exportS.ROUTES = ROUTES
+exports.ROUTES = ROUTES
